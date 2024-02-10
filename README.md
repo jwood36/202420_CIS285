@@ -4,4 +4,4 @@ Chaney Tyas
 Haines Coleman 
 Jeane Andrew 
 Knight Tony 
-Sawyer Joshua
+Joshua Sawyer
