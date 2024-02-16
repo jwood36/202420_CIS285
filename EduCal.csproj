@@ -45,12 +45,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmAbout.cs">
+    <Compile Include="AboutBox1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmAbout.Designer.cs">
-      <DependentUpon>frmAbout.cs</DependentUpon>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
     </Compile>
+    <Compile Include="AboutBox2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox2.Designer.cs">
+      <DependentUpon>AboutBox2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\frmAbout.cs">
+      <SubType>Form</SubType>
+      <Link>frmAbout.cs</Link>
+    </Compile>
+    <Compile Include="..\frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+      <Link>frmAbout.Designer.cs</Link>
+    </Compile>
+    <Compile Include="EduCalObjects.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -58,8 +73,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="frmAbout.resx">
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutBox2.resx">
+      <DependentUpon>AboutBox2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\frmAbout.resx">
       <DependentUpon>frmAbout.cs</DependentUpon>
+      <Link>frmAbout.resx</Link>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
