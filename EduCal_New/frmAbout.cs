@@ -17,6 +17,18 @@ namespace EduCal
         {
             InitializeComponent();
             
+            this.Text = "About..."; // Title
+
+            // Update the values
+            this.labelProductName.Text = "Education Calendar";
+            this.labelVersion.Text = "2024.04";
+            this.textBoxDescription.Text = "Carstarphen, Shamar\r\n" +
+                                            "Chaney, Tyas\r\n" +
+                                            "Haines, Colema\r\n" +
+                                            "Jeane, Andrew\r\n" +
+                                            "Knight, Tony\r\n" +
+                                            "Sawyer, Josh\r\n";
+            
         }
         private void Form1_Load(object sender, EventArgs e)
         {
