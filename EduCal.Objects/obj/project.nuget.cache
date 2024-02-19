@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YCdZGaqIM6z2x2rlmlwJAVnalzOtw5v8SPzYrElxKBCVQoWNp2oOGYch61xHWmOw05Exa1RLB2wu/nfc9jxScw==",
+  "dgSpecHash": "fkERerf0DMehsVWXHwFOm3orN+bUHbCS/x7lKmjq0eG6Vl/kuO3cYApOiGB7d7JtL+ntK1pFBN1NgSwk65FolA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ssawyer\\Downloads\\EduCal_New\\EduCal.Objects\\EduCal.Objects.csproj",
+  "projectFilePath": "C:\\Users\\ssawyer\\Documents\\GitHub\\CIS285_EduCal_T1\\EduCal.Objects\\EduCal.Objects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssawyer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ssawyer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

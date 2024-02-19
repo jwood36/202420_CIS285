@@ -233,7 +233,7 @@ namespace EduCal
             this.textBoxDescription.Size = new System.Drawing.Size(406, 194);
             this.textBoxDescription.TabIndex = 23;
             this.textBoxDescription.TabStop = false;
-            this.textBoxDescription.Text = "Carstarphen, Shamar\r\nChaney, Tyas\r\nHaines, Coleman\r\nKnight, Tony\r\nSawyer, Josh";
+            this.textBoxDescription.Text = "Carstarphen, Shamar\r\nChaney, Tyas\r\nHaines, Colema\r\nJeane, Andrew\r\nKnight, Tony\r\nSawyer, Josh";
             this.textBoxDescription.TextChanged += new System.EventHandler(this.textBoxDescription_TextChanged);
             // 
             // frmAbout

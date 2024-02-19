@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssawyer\\Downloads\\EduCal_New\\EduCal.Objects\\EduCal.Objects.csproj": {}
+    "C:\\Users\\ssawyer\\Documents\\GitHub\\CIS285_EduCal_T1\\EduCal.Objects\\EduCal.Objects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssawyer\\Downloads\\EduCal_New\\EduCal.Objects\\EduCal.Objects.csproj": {
+    "C:\\Users\\ssawyer\\Documents\\GitHub\\CIS285_EduCal_T1\\EduCal.Objects\\EduCal.Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssawyer\\Downloads\\EduCal_New\\EduCal.Objects\\EduCal.Objects.csproj",
+        "projectUniqueName": "C:\\Users\\ssawyer\\Documents\\GitHub\\CIS285_EduCal_T1\\EduCal.Objects\\EduCal.Objects.csproj",
         "projectName": "EduCal.Objects",
-        "projectPath": "C:\\Users\\ssawyer\\Downloads\\EduCal_New\\EduCal.Objects\\EduCal.Objects.csproj",
+        "projectPath": "C:\\Users\\ssawyer\\Documents\\GitHub\\CIS285_EduCal_T1\\EduCal.Objects\\EduCal.Objects.csproj",
         "packagesPath": "C:\\Users\\ssawyer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssawyer\\Downloads\\EduCal_New\\EduCal.Objects\\obj\\",
+        "outputPath": "C:\\Users\\ssawyer\\Documents\\GitHub\\CIS285_EduCal_T1\\EduCal.Objects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssawyer\\AppData\\Roaming\\NuGet\\NuGet.Config",

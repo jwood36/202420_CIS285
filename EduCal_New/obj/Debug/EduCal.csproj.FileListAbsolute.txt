@@ -21,3 +21,15 @@ C:\Users\ssawyer\Downloads\EduCal_New\EduCal_New\obj\Debug\EduCal.csproj.CoreCom
 C:\Users\ssawyer\Downloads\EduCal_New\EduCal_New\bin\Debug\EduCal.Objects.dll
 C:\Users\ssawyer\Downloads\EduCal_New\EduCal_New\bin\Debug\EduCal.Objects.pdb
 C:\Users\ssawyer\Downloads\EduCal_New\EduCal_New\obj\Debug\EduCal.csproj.CopyComplete
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\bin\Debug\EduCal.exe.config
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\bin\Debug\EduCal.exe
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\bin\Debug\EduCal.pdb
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\bin\Debug\EduCal.Objects.dll
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\bin\Debug\EduCal.Objects.pdb
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.csproj.AssemblyReference.cache
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.frmAbout.resources
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.csproj.GenerateResource.cache
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.csproj.CoreCompileInputs.cache
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.csproj.CopyComplete
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.exe
+C:\Users\ssawyer\Documents\GitHub\CIS285_EduCal_T1\EduCal_New\obj\Debug\EduCal.pdb
