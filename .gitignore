@@ -1,9 +1,0 @@
-# Build results
-[Bb]in/[Dd]ebug/
-[Bb]in/[Dd]ebugPublic/
-
-# Visual Studio 2015/2017 cache/options directory
-.vs/
-
-# Visual Studio 2017 auto generated files
-Generated\ Files/
