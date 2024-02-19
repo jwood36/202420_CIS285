@@ -84,20 +84,20 @@ namespace EduCal
             // 
             // mnuEditToolStripMenuItem
             // 
-            this.mnuEditToolStripMenuItem.Name = "mnuEditToolStripMenuItem";
+            this.mnuEditToolStripMenuItem.Name = "mnuFile";
             this.mnuEditToolStripMenuItem.Size = new System.Drawing.Size(87, 20);
             this.mnuEditToolStripMenuItem.Text = "&File";
             this.mnuEditToolStripMenuItem.Click += new System.EventHandler(this.mnuEditToolStripMenuItem_Click);
             // 
             // editToolStripMenuItem
             // 
-            this.editToolStripMenuItem.Name = "editToolStripMenuItem";
+            this.editToolStripMenuItem.Name = "mnuEdit";
             this.editToolStripMenuItem.Size = new System.Drawing.Size(92, 20);
             this.editToolStripMenuItem.Text = "&Edit";
             // 
             // aboutToolStripMenuItem
             // 
-            this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
+            this.aboutToolStripMenuItem.Name = "mnuAbout";
             this.aboutToolStripMenuItem.Size = new System.Drawing.Size(124, 20);
             this.aboutToolStripMenuItem.Text = "Abou&t";
             // 
