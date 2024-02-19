@@ -1,0 +1,10 @@
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\bin\Debug\netstandard2.0\EduCal.Objects.deps.json
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\bin\Debug\netstandard2.0\EduCal.Objects.dll
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\bin\Debug\netstandard2.0\EduCal.Objects.pdb
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.csproj.AssemblyReference.cache
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.AssemblyInfoInputs.cache
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.AssemblyInfo.cs
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.csproj.CoreCompileInputs.cache
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.dll
+C:\Users\ssawyer\Downloads\EduCal_New\EduCal.Objects\obj\Debug\netstandard2.0\EduCal.Objects.pdb
