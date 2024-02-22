@@ -16,7 +16,7 @@ namespace EduCal
         public frmAbout()
         {
             InitializeComponent();
-
+            
             this.Text = "About..."; // Title
 
             // Update the values
