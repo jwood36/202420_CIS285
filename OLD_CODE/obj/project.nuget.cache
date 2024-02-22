@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sl9qeReOBphXl2/1sOLT47PQZhUrUBJ0wSmk5WbTc+v0WFY/tTzjlNd79eOszKhFMxLjOanBJeGjEKntxXJ/Xg==",
+  "success": false,
+  "projectFilePath": "C:\\WORKING\\CIS285\\CIS285_EduCal_T1\\EduCalproject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\WORKING\\CIS285\\About\\About.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\WORKING\\CIS285\\About\\About.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
