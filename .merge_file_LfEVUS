@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EduCal")]
+[assembly: AssemblyTitle("EduCal.Objects")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EduCal")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCompany("JSCC")]
+[assembly: AssemblyProduct("EduCal.Objects")]
+[assembly: AssemblyCopyright("Copyright © JSCC 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e85002e4-b82a-4488-a007-b363130dfd1c")]
+[assembly: Guid("07ece87e-7a70-4e98-80b6-c65bc17270d8")]
 
 // Version information for an assembly consists of the following four values:
 //
