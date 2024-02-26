@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCalproject", "EduCalproject.csproj", "{7A2FD7FF-6CEC-4D23-8370-332A3CF0BDDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AC9DE77-F0D0-43E1-AA19-8E01CA378813}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "About", "..\About\About.csproj", "{5493FDC8-C5B7-4D17-B112-E196C00AE113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2FD7FF-6CEC-4D23-8370-332A3CF0BDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2FD7FF-6CEC-4D23-8370-332A3CF0BDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2FD7FF-6CEC-4D23-8370-332A3CF0BDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2FD7FF-6CEC-4D23-8370-332A3CF0BDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5493FDC8-C5B7-4D17-B112-E196C00AE113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5493FDC8-C5B7-4D17-B112-E196C00AE113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5493FDC8-C5B7-4D17-B112-E196C00AE113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5493FDC8-C5B7-4D17-B112-E196C00AE113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B2356E-8CBC-4C77-AB1E-EE5718A765B2}
+	EndGlobalSection
+EndGlobal
